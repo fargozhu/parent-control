@@ -23,3 +23,4 @@ F0:B3:EC:0C:73:2E|home-appletv
 34:7E:5C:E4:A4:00|home-sonos-kitchen
 34:7E:5C:9C:97:4D|home-sonos-livingroom
 3C:6A:9D:20:61:ED|home-frontdoor-camera
+36:E7:DE:73:FA:0B|finn-iphone
